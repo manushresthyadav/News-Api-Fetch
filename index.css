@@ -1,0 +1,43 @@
+.sp{
+    border-radius: 2px;
+  font-weight: bolder;
+}
+.hue{
+    margin-top: 10px;
+}
+.news{
+    cursor: pointer;
+    margin-top: 10px;
+    width: fit-content;
+    font-weight: bold;
+    color: #87cefa ;
+}
+.inner{
+    margin: 10px 10px;
+    border: 2px solid black;
+}
+.navbar{
+    margin-top: 1px;
+    background-color: gray;
+padding: 6px 6px;
+}
+.inp{
+    background-color: white;
+}
+.inp input{
+color: black;
+}
+.list{
+    display: flex;
+    column-gap: 20px;
+}
+.inp{
+    position: absolute;
+    right: 10px;
+}
+.main{
+    display: none;
+}
+.container{
+    margin-left: 10px;
+}
